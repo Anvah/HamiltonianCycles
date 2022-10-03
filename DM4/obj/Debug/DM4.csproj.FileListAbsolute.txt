@@ -1,0 +1,10 @@
+C:\Users\anvah\source\repos\DM4\DM4\bin\Debug\DM4.exe.config
+C:\Users\anvah\source\repos\DM4\DM4\bin\Debug\DM4.exe
+C:\Users\anvah\source\repos\DM4\DM4\bin\Debug\DM4.pdb
+C:\Users\anvah\source\repos\DM4\DM4\obj\Debug\DM4.Form1.resources
+C:\Users\anvah\source\repos\DM4\DM4\obj\Debug\DM4.Properties.Resources.resources
+C:\Users\anvah\source\repos\DM4\DM4\obj\Debug\DM4.csproj.GenerateResource.cache
+C:\Users\anvah\source\repos\DM4\DM4\obj\Debug\DM4.csproj.CoreCompileInputs.cache
+C:\Users\anvah\source\repos\DM4\DM4\obj\Debug\DM4.exe
+C:\Users\anvah\source\repos\DM4\DM4\obj\Debug\DM4.pdb
+C:\Users\anvah\source\repos\DM4\DM4\obj\Debug\DM4.csproj.AssemblyReference.cache
